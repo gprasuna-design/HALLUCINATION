@@ -1,0 +1,6 @@
+Generator,Comparison,delta_AUROC,CI_low,CI_high,p_value,p_floor,n_images,valid_replicates,p_holm,p_report
+Qwen/Qwen2.5-VL-3B-Instruct,Proposed Multimodal Fusion vs Visual Risk,0.09158830660902584,0.07158896020494714,0.11185199083442678,0.0,0.0001,500,10000,0.0,< 0.0005
+Qwen/Qwen2.5-VL-3B-Instruct,Proposed Multimodal Fusion vs Uncertainty Fusion,0.0346315575153725,0.020814133732493995,0.0485332503929516,0.0,0.0001,500,10000,0.0,< 0.0005
+Qwen/Qwen2.5-VL-3B-Instruct,Proposed Multimodal Fusion vs Semantic Entropy,0.0838193104681163,0.05870815387182255,0.1090648172108133,0.0,0.0001,500,10000,0.0,< 0.0005
+Qwen/Qwen2.5-VL-3B-Instruct,Proposed Multimodal Fusion vs P(True),0.21272482415267158,0.18605174884954687,0.2380722727225476,0.0,0.0001,500,10000,0.0,< 0.0005
+Qwen/Qwen2.5-VL-3B-Instruct,Semantic Entropy + Visual Risk vs Semantic Entropy,0.07431504548585743,0.054017245862183746,0.09490445134790222,0.0,0.0001,500,10000,0.0,< 0.0005

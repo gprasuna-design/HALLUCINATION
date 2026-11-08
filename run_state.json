@@ -1,0 +1,20 @@
+{
+  "gpu_peak_GB": {
+    "qwen_external_baselines": 8.013731328,
+    "qwen_hallusionbench": 7.784158208,
+    "modelB_pope": 6.27542272,
+    "modelC_pope": 6.505970688
+  },
+  "dtype": {
+    "Qwen/Qwen2.5-VL-3B-Instruct": "bfloat16",
+    "HuggingFaceTB/SmolVLM-Instruct": "bfloat16",
+    "Qwen/Qwen2.5-VL-7B-Instruct": "bfloat16"
+  },
+  "gpu_by_model": {
+    "Qwen/Qwen2.5-VL-3B-Instruct": "Tesla T4",
+    "HuggingFaceTB/SmolVLM-Instruct": "Tesla T4",
+    "Qwen/Qwen2.5-VL-7B-Instruct": "Tesla T4"
+  },
+  "siglip_device": "cuda",
+  "model_c_4bit": true
+}

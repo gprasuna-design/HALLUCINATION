@@ -1,0 +1,949 @@
+image_path,question,vis_logit
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/0_1.png,"Is China, Hongkong SAR, the leading importing country of gold, silverware, and jewelry with the highest import value in 2018?",10.2421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/0_1.png,"Is Switzerland, the leading importing country of gold, silverware, and jewelry with the highest import value in 2018?",10.8671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/0_1.png,"Is France, the leading importing country of gold, silverware, and jewelry with the highest import value in 2018?",10.9453125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/0_1.png,"Is the United States, the leading importing country of gold, silverware, and jewelry with the highest import value in 2018?",12.6328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/1_1.png,"From 2001 to 2019, Is 2010 exported the most value of bread, biscuits, wafers, cakes and pastries from the UK?",14.2265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/1_1.png,"From 2001 to 2019, Is 2019 exported the most value of bread, biscuits, wafers, cakes and pastries from the UK?",12.8671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/1_1.png,"From 2001 to 2010, Is 2010 exported the most value of bread, biscuits, wafers, cakes and pastries from the UK?",14.4609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/1_1.png,"From 2001 to 2010, Is 2005 exported the most value of bread, biscuits, wafers, cakes and pastries from the UK?",14.8046875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/1_1.png,"From 2000 to 2019, Is 2010 exported the least value of bread, biscuits, wafers, cakes and pastries from the UK?",14.6171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/1_1.png,"From 2000 to 2019, Is 2019 exported the least value of bread, biscuits, wafers, cakes and pastries from the UK?",12.8828125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/1_1.png,"From 2010 to 2019, Is 2010 exported the least value of bread, biscuits, wafers, cakes and pastries from the UK?",14.5078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/1_1.png,"From 2010 to 2019, Is 2015 exported the least value of bread, biscuits, wafers, cakes and pastries from the UK?",14.3671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/2_1.png,"From 2000-2050, is the population aged between 15 and 29 years in China the most in 2000?",6.9765625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/2_1.png,"From 2000-2050, is the population aged between 15 and 29 years in China the most in 2005?",7.2265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/2_1.png,"From 2000-2050, is the population aged between 15 and 29 years in China the most in 2030?",5.9453125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/2_1.png,"From 2000-2050, is the population aged between 15 and 29 years in China the most in 2050?",6.3203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/2_1.png,"From 2000-2050, is the population aged between 15 and 29 years in China the least in 2000?",7.0390625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/2_1.png,"From 2000-2050, is the population aged between 15 and 29 years in China the least in 2005?",7.3828125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/2_1.png,"From 2000-2050, is the population aged between 15 and 29 years in China the least in 2030?",6.1171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/2_1.png,"From 2000-2050, is the population aged between 15 and 29 years in China the least in 2050?",6.2890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/3_1.png,"According to the chart, does China have the largest population in the world, followed by India and then the USA?",0.1953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/3_1.png,"According to the chart, does India have the second largest population in the world?",-0.59375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/3_1.png,"According to the chart, does UK have the largest population in the world, followed by China and USA?",-0.6328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/3_1.png,"According to the chart, does China have the second largest population in the world?",-1.1484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/3_2.png,"According to the chart, does China have the largest population in the world, followed by India and then the USA?",-0.203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/3_2.png,"According to the chart, does India have the second largest population in the world?",-1.34375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/3_2.png,"According to the chart, does UK have the largest population in the world, followed by China and USA?",0.984375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/3_2.png,"According to the chart, does China have the second largest population in the world?",-0.984375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/4_1.png,"According to the chart, is China the third largest country by land area in the world?",-0.109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/4_1.png,"According to the chart, is US the third largest country by land area in the world?",0.0
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/4_1.png,"According to the chart, is US the largest country by land area in the world?",0.2265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/4_1.png,"According to the chart, is Russia the largest country by land area in the world?",0.875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/4_2.png,"According to the chart, is China the third largest country by land area in the world?",-2.53125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/4_2.png,"According to the chart, is US the third largest country by land area in the world?",-1.890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/4_2.png,"According to the chart, is US the largest country by land area in the world?",-1.5546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/4_2.png,"According to the chart, is Russia the largest country by land area in the world?",-0.7734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/5_1.png,"According to the image, in 2019, did Asian families have the highest real median household income in the United States, with White, Hispanic, and Black households following respectively?",1.0078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/5_1.png,"According to the image, in 2019, did Black families have the highest real median household income in the United States, with White, Hispanic, and Asian households following respectively?",1.421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/5_1.png,"According to the image, in 2019, did Black and White households represent the only racial groups with median incomes surpassing the national average in the United States, while Hispanic and Asian households had median incomes below the average?",4.7421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/5_1.png,"According to the image, in 2019, did Hispanic and Asian households represent the only racial groups with median incomes surpassing the national average in the United States, while Black and White households had median incomes below the average?",4.2578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/5_2.png,"According to the image, in 2019, did Asian families have the highest real median household income in the United States, with White, Hispanic, and Black households following respectively?",0.4453125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/5_2.png,"According to the image, in 2019, did Black families have the highest real median household income in the United States, with White, Hispanic, and Asian households following respectively?",0.5
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/5_2.png,"According to the image, in 2019, did Black and White households represent the only racial groups with median incomes surpassing the national average in the United States, while Hispanic and Asian households had median incomes below the average?",3.7265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/5_2.png,"According to the image, in 2019, did Hispanic and Asian households represent the only racial groups with median incomes surpassing the national average in the United States, while Black and White households had median incomes below the average?",3.2890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/6_1.png,"From 2012 to 2022, did Apple derive the majority of its revenue from the Americas?",5.5703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/6_1.png,"From 2012 to 2022, did Apple derive the majority of its revenue from Europe?",7.3828125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/6_1.png,"From 2012 to 2022, did Apple derive the majority of its revenue from Greater China?",6.7265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/6_1.png,"From 2012 to 2022, did Apple derive the majority of its revenue from Japan?",6.1640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/6_2.png,"From 2012 to 2022, did Apple derive the majority of its revenue from the Americas?",5.5703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/6_2.png,"From 2012 to 2022, did Apple derive the majority of its revenue from Europe?",7.1015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/6_2.png,"From 2012 to 2022, did Apple derive the majority of its revenue from Greater China?",7.3515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/6_2.png,"From 2012 to 2022, did Apple derive the majority of its revenue from Japan?",6.6328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/7_1.png,"In 2019, were the main policy interest rates of the U.S. Central Bank higher than those of the Central Banks in the UK, Eurozone, and Japan?",7.3359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/7_1.png,"In 2019, were the main policy interest rates of the Central Banks in the UK higher than those of the U.S. Central Bank , Eurozone, and Japan?",7.6015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/7_1.png,"In 2019, were the main policy interest rates of the Central Banks in the Eurozone higher than those of the U.S. Central Bank, the Central Banks in the UK, and Japan?",7.2265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/7_1.png,"In 2019, were the main policy interest rates of the Japan Central Bank higher than those of the Central Banks in the UK, Eurozone, and U.S.?",7.3828125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/7_2.png,"In 2019, were the main policy interest rates of the U.S. Central Bank higher than those of the Central Banks in the UK, Eurozone, and Japan, according to the image?",7.7421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/7_2.png,"In 2019, were the main policy interest rates of the Central Banks in the UK higher than those of the U.S. Central Bank , Eurozone, and Japan, according to the image?",8.2890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/7_2.png,"In 2019, were the main policy interest rates of the Central Banks in the Eurozone higher than those of the U.S. Central Bank, the Central Banks in the UK, and Japan, according to the image?",8.0234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/7_2.png,"In 2019, were the main policy interest rates of the Japan Central Bank higher than those of the Central Banks in the UK, Eurozone, and U.S., according to the image?",8.1015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/8_1.png,"According to the image, was Harry Kane the top goalscorer at the 2018 FIFA World Cup?",1.328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/8_1.png,"According to the image, was Cristiano Ronaldo the top goalscorer at the 2018 FIFA World Cup?",-2.2265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/8_1.png,"According to the image, was Antoine Griezmann the top goalscorer at the 2018 FIFA World Cup?",-0.8046875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/8_2.png,"According to the image, was Harry Kane the top goalscorer at the 2018 FIFA World Cup?",0.5859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/8_2.png,"According to the image, was Cristiano Ronaldo the top goalscorer at the 2018 FIFA World Cup?",-2.3515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/8_2.png,"According to the image, was Antoine Griezmann the top goalscorer at the 2018 FIFA World Cup?",-0.765625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/9_1.png,"In 2020, did the United States have the largest GDP around the world, followed by China, and Japan, according to the image?",2.2421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/9_1.png,"In 2020, did China have the largest GDP around the world, followed by the United States, and Japan, according to the image?",1.71875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/9_1.png,"In 2020, did Japan have the largest GDP around the world, followed by the United States, and China, according to the image?",2.046875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/9_1.png,"In 2020, did India have the largest GDP around the world, followed by China and Japan, according to the image?",0.109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/9_2.png,"In 2020, did the United States have the largest GDP around the world, followed by China, and Japan, according to the image?",2.515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/9_2.png,"In 2020, did China have the largest GDP around the world, followed by the United States, and Japan, according to the image?",2.0
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/9_2.png,"In 2020, did Japan have the largest GDP around the world, followed by the United States, and China, according to the image?",2.390625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/9_2.png,"In 2020, did India have the largest GDP around the world, followed by China and Japan, according to the image?",0.4296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/10_1.png,"According to the image, were white individuals the largest population group in the United States in 2020, with Latinos and African Americans as the second and third largest groups, respectively?",2.546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/10_1.png,"According to the image, were African Americans the largest population group in the United States in 2020, with Whites and Latinos as the second and third largest groups, respectively?",3.4609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/10_1.png,"According to the image, were Latinos the largest population group in the United States in 2020, with Whites and African Americans as the second and third largest groups, respectively?",2.53125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/10_1.png,"According to the image, were Asians the largest population group in the United States in 2020, with Whites and African Americans as the second and third largest groups, respectively?",1.609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/10_2.png,"According to the image, were white individuals the largest population group in the United States in 2020, with Latinos and African Americans as the second and third largest groups, respectively?",2.546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/10_2.png,"According to the image, were African Americans the largest population group in the United States in 2020, with Whites and Latinos as the second and third largest groups, respectively?",3.5390625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/10_2.png,"According to the image, were Latinos the largest population group in the United States in 2020, with Whites and African Americans as the second and third largest groups, respectively?",2.53125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/10_2.png,"According to the image, were Asians the largest population group in the United States in 2020, with Whites and African Americans as the second and third largest groups, respectively?",1.6484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/11_1.png,"According to the image, between 2011 and 2020, was 2020 the year when China's exports to the United States reached their highest value?",-0.1015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/11_1.png,"According to the image, did China's exports to the United States experience a decrease from 2016 to 2018?",2.03125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/12_1.png,"According to the image, in 2013, was the United States the largest recipient of exports from China in terms of US dollars, followed by Hong Kong and Japan?",2.859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/12_1.png,"According to the image, in 2013, was Hong Kong the largest recipient of exports from China in terms of US dollars, followed by the United States and Japan?",3.2109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/12_1.png,"According to the image, in 2013, was Japn the largest recipient of exports from China in terms of US dollars, followed by the United States and Hong Kong?",3.0703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/12_2.png,"According to the image, in 2013, was the United States the largest recipient of exports from China in terms of US dollars, followed by Hong Kong and Japan?",2.875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/12_2.png,"According to the image, in 2013, was Hong Kong the largest recipient of exports from China in terms of US dollars, followed by the United States and Japan?",3.1953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/12_2.png,"According to the image, in 2013, was Japn the largest recipient of exports from China in terms of US dollars, followed by the United States and Hong Kong?",3.1328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/13_1.png,"According to the image, between March 2020 and December 2021, did the United States experience the peak average number of daily reported COVID-19 deaths during the initial wave, which spanned from March 2020 to June 2020?",1.515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/13_1.png,"According to the image, had the total number of coronavirus deaths in the United States reached 937,000 by February 2021?",1.7265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/13_2.png,"According to the image, between March 2020 and December 2021, did the United States experience the peak average number of daily reported COVID-19 deaths during the initial wave, which spanned from March 2020 to June 2020?",1.5078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/13_2.png,"According to the image, had the total number of coronavirus deaths in the United States reached 937,000 by February 2021?",2.015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/14_1.png,"According to the image, did the Soviet Union suffer the greatest number of total deaths in World War II, with China having the second-highest?",-1.9765625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/14_1.png,"According to the image, did the United States suffer the greatest number of total deaths in World War II, with China having the second-highest?",-2.6875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/14_1.png,"According to the image, did United Kingdom experience the highest percentage of total deaths relative to its 1939 population during World War II, followed by Poland?",-1.109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/14_2.png,"According to the image, did the Soviet Union suffer the greatest number of total deaths in World War II, with China having the second-highest?",4.1640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/14_2.png,"According to the image, did the United States suffer the greatest number of total deaths in World War II, with China having the second-highest?",5.4296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/14_2.png,"According to the image, did United Kingdom experience the highest percentage of total deaths relative to its 1939 population during World War II, followed by Poland?",4.0078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/15_1.png,"According to the image, did the global death toll from earthquakes surpass 200,000 in any year between 2000 and 2015?",7.0234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/15_1.png,"According to the image, did the year 2004 witness a higher global death toll due to earthquakes than 2005?",4.2421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/15_2.png,"According to the image, did the global death toll from earthquakes surpass 200,000 in any year between 2000 and 2009?",6.6171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/15_2.png,"According to the image, did the year 2004 witness a higher global death toll due to earthquakes than 2005?",4.4609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/16_1.png,"According to the image, does DJI hold more than 50% of the commercial drone brand market share in 2021?",11.7734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/16_1.png,"According to the image, is the combined market share of Autel, FreeFly, Skydio, and Parrot greater than the market share of DJI alone in 2021?",7.0078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/16_2.png,"According to the image, does DJI hold more than 50% of the commercial drone brand market share in 2021?",11.4765625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/16_2.png,"According to the image, is the combined market share of Autel, FreeFly, Skydio, and Parrot greater than the market share of DJI alone in 2021?",6.7890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/17_1.png,"According to the image, is Mark Zuckerberg'swealth greater than Larry Ellison's on 13th March 2020?",0.796875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/17_1.png,"According to the image, was Elon Musk richer than Mark Zuckerberg on March 13th, 2020?",1.828125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/17_1.png,"According to the image, was Elon Musk richer than Mark Zuckerberg, on January 10th, 2021?",2.2265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/17_2.png,"According to the image, is Mark Zuckerberg'swealth greater than Larry Ellison's on 13th March 2020?",0.8203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/17_2.png,"According to the image, was Elon Musk richer than Mark Zuckerberg on March 13th, 2020?",1.640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/17_2.png,"According to the image, was Elon Musk richer than Mark Zuckerberg, on January 10th, 2021?",2.0859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/18_1.png,"According to the image, in 2017, was Tencent the company with the highest revenue from video games, with Sony as the second-highest earner?",7.0546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/18_1.png,"According to the image, in 2017, did Apple generate higher revenue from video games compared to Google?",7.2734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/18_2.png,"According to the image, in 2017, was Tencent the company with the highest revenue from video games, with Sony as the second-highest earner?",6.2421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/18_2.png,"According to the image, in 2017, did Apple generate higher revenue from video games compared to Google?",7.5390625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/19_1.png,"According to the image, during the coronavirus pandemic from 2019 to 2022, were the most bankruptcy filings in the US recorded in the year 2020?",4.6015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/19_1.png,"According to the image, during the coronavirus pandemic from 2019 to 2022, were the most bankruptcy filings in the US recorded in the year 2021?",4.8984375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/19_2.png,"According to the image, during the coronavirus pandemic from 2019 to 2022, were the most bankruptcy filings in the US recorded in the year 2020?",7.0078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/19_2.png,"According to the image, during the coronavirus pandemic from 2019 to 2022, were the most bankruptcy filings in the US recorded in the year 2021?",7.2890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/20_1.png,"According to the image, in 2020, did China have a larger population aged between 90 and 94 years than those aged between 0 and 4 years?",5.1171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/20_1.png,"According to the image, in 2020, did China have a larger population aged between 50 and 54 years than those aged between 0 and 4 years?",5.9296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/20_2.png,"According to the image, in 2020, did China have a larger population aged between 90 and 94 years than those aged between 0 and 4 years?",5.2734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/20_2.png,"According to the image, in 2020, did China have a larger population aged between 50 and 54 years than those aged between 0 and 4 years?",6.1953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/21_1.png,"According to the image, in 2018, did ""Black Panther"" achieve the highest box office revenue in North America?",3.1171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/21_1.png,"According to the image, in 2018, did ""Avengers: Infinity War"" achieve the highest box office revenue in North America?",2.484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/21_2.png,"According to the image, in 2018, did ""Black Panther"" achieve the highest box office revenue in North America?",3.1953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/chart/21_2.png,"According to the image, in 2018, did ""Avengers: Infinity War"" achieve the highest box office revenue in North America?",2.671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/0_1.png,"According to the metal number chart of 2008 beijng olympic, does China have the most gold metals, followed by USA and Russia?",6.6484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/0_1.png,"According to the metal number chart of 2008 beijng olympic, does USA have the most gold metals, followed by China and Russia?",6.7890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/0_1.png,"According to the metal number chart of 2008 beijng olympic, does Russia have the most gold metals, followed by China and USA?",7.2421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/0_2.png,"According to the metal number chart of 2008 beijng olympic, does China have the most gold metals, followed by USA and Russia?",7.0234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/0_2.png,"According to the metal number chart of 2008 beijng olympic, does USA have the most gold metals, followed by China and Russia?",6.7578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/0_2.png,"According to the metal number chart of 2008 beijng olympic, does Russia have the most gold metals, followed by China and USA?",7.4921875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/1_1.png,which country has the largest population growth rate in 2023,5.9765625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/1_1.png,"In 2023, did Syria have higher population growth than South Sudan?",8.0859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/1_1.png,"In 2023, did Syria have higher population growth than United Kingdom?",4.3203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/1_2.png,"According to the table, which country has the largest population growth rate in 2023",7.6484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/1_2.png,"According to the table, In 2023, did Syria have higher population growth than South Sudan?",8.6640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/1_2.png,"According to the table, In 2023, did Syria have higher population growth than United Kingdom?",4.2578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/2_1.png,"According to the table, which country in Europe has the higher GDP in 2021?",7.8671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/2_1.png,"According to the table, in 2021, did Germany have the highest GDP?",5.8203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/2_1.png,"According to the table, in 2021, did Germany have the highest GDP, followed by France and Italy?",7.7734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/2_2.png,"According to the table, which country in Europe has the higher GDP in 2021?",7.5234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/2_2.png,"According to the table, in 2021, did Germany have the highest GDP?",5.6484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/2_2.png,"According to the table, in 2021, did Germany have the highest GDP, followed by France and Italy?",7.3515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/2_3.png,"According to the table, which country in Europe has the higher GDP in 2021?",9.3515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/2_3.png,"According to the table, in 2021, did Germany have the highest GDP?",6.1171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/2_3.png,"According to the table, in 2021, did Germany have the highest GDP, followed by France and Italy?",9.4609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/3_1.png,"According to the table, did Xiaomi sell most units of the smartphone in Q2 2020?",3.1171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/3_1.png,"According to the table, did Samsung sell most units of the smartphone in Q2 2020?",4.1171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/3_1.png,"According to the table, did Xiaomi have the largest smartphone market share in Q2 2020, followed by Samsung and Huawei?",4.9609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/3_2.png,"According to the table, did Xiaomi sell most units of the smartphone in Q2 2020?",-3.078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/3_2.png,"According to the table, did Samsung sell most units of the smartphone in Q2 2020?",-2.296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/3_2.png,"According to the table, did Xiaomi have the largest smartphone market share in Q2 2020, followed by Samsung and Huawei?",-3.0078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/4_1.png,"According to the table, Which state in the United States has the average maximum temperature in 2021 ?",9.2734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/4_1.png,"According to the table, According to the table, did Florida have the highest average maximum temperature ?",6.5546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/4_1.png,"According to the table, According to the table, did Florida have a higher average maximum temperature than Louisana?",6.5234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/4_2.png,"According to the table, Which state in the United States has the average maximum temperature in 2021 ?",8.9296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/4_2.png,"According to the table, did Florida have the highest average maximum temperature ?",5.8203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/4_2.png,"According to the table, did Florida have a higher average maximum temperature than Louisana?",5.5390625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/4_3.png,"According to the table, Which state in the United States has the average maximum temperature in 2021 ?",8.0078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/4_3.png,"According to the table, did Florida have the highest average maximum temperature ?",5.2265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/4_3.png,"According to the table, did Florida have a higher average maximum temperature than South Carolina?",5.4765625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/5_1.png,"According to the image, which month has the lowest percentage change in personal income in the United States from September 2022 to September 2023",8.8984375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/5_1.png,"According to the image, which month has the highest percentage change in personal income in the United States from September 2022 to September 2023",8.8203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/5_1.png,"According to the table, Did January 2023 have a higher income percentage change than August 2023?",5.6796875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/5_1.png,"According to the table, Did January 2023 have a lower income percentage change than August 2023?",6.3828125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/5_2.png,"According to the image, which month has the lowest percentage change in personal income in the United States from September 2022 to September 2023",10.5234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/5_2.png,"According to the image, which month has the highest percentage change in personal income in the United States from September 2022 to September 2023",10.4609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/5_2.png,"According to the table, Did January 2023 have a higher income percentage change than August 2023?",5.8671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/5_2.png,"According to the table, Did January 2023 have a lower income percentage change than August 2023?",6.5234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/5_3.png,"According to the image, which month has the lowest percentage change in personal income in the United States from September 2022 to September 2023",8.6640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/5_3.png,"According to the image, which month has the highest percentage change in personal income in the United States from September 2022 to September 2023",8.9453125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/5_3.png,"According to the table, Did January 2023 have a higher income percentage change than August 2023?",4.9921875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/5_3.png,"According to the table, Did January 2023 have a lower income percentage change than August 2023?",5.8828125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/6_1.png,"According to the table, does Shanghai have the most dense population in China in 2020?",9.0703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/6_1.png,"According to the table, does Beijing have the second most dense population in China in 2020?",9.1796875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/6_1.png,"According to the table, does Shandong have the most dense population in China in 2020?",8.6796875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/6_1.png,"According to the table, does Zhejiang have the second most dense population in China in 2020?",8.8828125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/6_2.png,"According to the table, does Shanghai have the most dense population in China in 2020?",8.6953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/6_2.png,"According to the table, does Beijing have the second most dense population in China in 2020?",8.0546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/6_2.png,"According to the table, does Shandong have the most dense population in China in 2020?",8.8359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/6_2.png,"According to the table, does Zhejiang have the second most dense population in China in 2020?",9.0859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/6_3.png,"According to the table, does Shanghai have the most dense population in China in 2020?",1.1328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/6_3.png,"According to the table, does Beijing have the second most dense population in China in 2020?",1.6953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/6_3.png,"According to the table, does Shandong have the most dense population in China in 2020?",1.28125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/6_3.png,"According to the table, does Zhejiang have the second most dense population in China in 2020?",0.8046875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/7_1.png,"According to the table, is the number of gold medals of Norway 16 in winter Olympics in 2022?",6.9140625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/7_1.png,"According to the table, is the number of gold medals of Norway 9 in winter Olympics in 2022?",6.5234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/7_1.png,"According to the table, is the number of gold medals of Germany 12 in winter Olympics in 2022?",8.8359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/7_1.png,"According to the table, is the number of gold medals of Germany 8 in winter Olympics in 2022?",8.6171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/7_1.png,"According to the table, is the number of all medals of China 15 in winter Olympics in 2022?",8.2421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/7_1.png,"According to the table, is the number of all medals of China 37 in winter Olympics in 2022?",8.1484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/7_2.png,"According to the table, is the number of gold medals of Norway 16 in winter Olympics in 2022?",8.1328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/7_2.png,"According to the table, is the number of gold medals of Norway 9 in winter Olympics in 2022?",7.5703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/7_2.png,"According to the table, is the number of gold medals of Germany 12 in winter Olympics in 2022?",9.9453125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/7_2.png,"According to the table, is the number of gold medals of Germany 8 in winter Olympics in 2022?",9.8203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/7_2.png,"According to the table, is the number of all medals of China 15 in winter Olympics in 2022?",8.1484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/7_2.png,"According to the table, is the number of all medals of China 37 in winter Olympics in 2022?",8.0234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/7_3.png,"According to the table, is the number of gold medals of Norway 16 in winter Olympics in 2022?",7.0390625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/7_3.png,"According to the table, is the number of gold medals of Norway 9 in winter Olympics in 2022?",6.8359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/7_3.png,"According to the table, is the number of gold medals of Germany 12 in winter Olympics in 2022?",9.6484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/7_3.png,"According to the table, is the number of gold medals of Germany 8 in winter Olympics in 2022?",9.4296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/7_3.png,"According to the table, is the number of all medals of China 15 in winter Olympics in 2022?",8.8359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/7_3.png,"According to the table, is the number of all medals of China 37 in winter Olympics in 2022?",8.8359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/8_1.png,"Accroding to the information provided in the table, does Taylor Swift release the album ""Midnights""?",5.9765625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/8_1.png,"Accroding to the information provided in the table, does Taylor Swift release the album ""Harry's House""?",6.1484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/8_1.png,"Accroding to the information provided in the table, does the album ""Midnights"" have a sale of 1,818,000 in 2022?",5.6328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/8_1.png,"Accroding to the information provided in the table, does the album ""Midnights"" have a sale of 422,000 in 2022?",6.8515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/8_1.png,"Accroding to the information provided in the table, does the album ""Proof"" have a sale of 422,000 in 2022?",6.6796875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/8_1.png,"Accroding to the information provided in the table, does the album ""Proof"" have a sale of 1,818,000 in 2022?",5.3359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/8_2.png,"Accroding to the information provided in the table, does Taylor Swift release the album ""Midnights""?",5.1171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/8_2.png,"Accroding to the information provided in the table, does Taylor Swift release the album ""Harry's House""?",6.7421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/8_2.png,"Accroding to the information provided in the table, does the album ""Midnights"" have a sale of 1,818,000 in 2022?",5.0703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/8_2.png,"Accroding to the information provided in the table, does the album ""Midnights"" have a sale of 422,000 in 2022?",6.2109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/8_2.png,"Accroding to the information provided in the table, does the album ""Proof"" have a sale of 422,000 in 2022?",6.7578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/8_2.png,"Accroding to the information provided in the table, does the album ""Proof"" have a sale of 1,818,000 in 2022?",5.5703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/8_3.png,"Accroding to the information provided in the table, does Taylor Swift release the album ""Midnights""?",5.2578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/8_3.png,"Accroding to the information provided in the table, does Taylor Swift release the album ""Harry's House""?",4.8203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/8_3.png,"Accroding to the information provided in the table, does the album ""Midnights"" have a sale of 1,818,000 in 2022?",6.1484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/8_3.png,"Accroding to the information provided in the table, does the album ""Midnights"" have a sale of 422,000 in 2022?",7.0859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/8_3.png,"Accroding to the information provided in the table, does the album ""Proof"" have a sale of 422,000 in 2022?",7.2890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/8_3.png,"Accroding to the information provided in the table, does the album ""Proof"" have a sale of 1,818,000 in 2022?",6.1640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/9_1.png,"According to the table, does the UB group have the highest portion of the market share for beer across India in 2020?",12.4296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/9_1.png,"According to the table, does the Carlsberg India have the highest portion of the market share for beer across India in 2020?",12.2421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/9_1.png,"According to the table, does the SABMiller India have the second highest portion of the market share for beer across India in 2020?",11.3046875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/9_1.png,"According to the table, does the UB Group have the second highest portion of the market share for beer across India in 2020?",12.3515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/9_2.png,"According to the table, does the UB group have the highest portion of the market share for beer across India in 2020?",13.3828125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/9_2.png,"According to the table, does the Carlsberg India have the highest portion of the market share for beer across India in 2020?",12.1171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/9_2.png,"According to the table, does the SABMiller India have the second highest portion of the market share for beer across India in 2020?",11.5546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/9_2.png,"According to the table, does the UB Group have the second highest portion of the market share for beer across India in 2020?",13.2890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/10_1.png,"According to this table, does China have the highest carbon dioxide emissions worldwide in 2010?",8.2265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/10_1.png,"According to this table, does US have the highest carbon dioxide emissions worldwide in 2010?",8.1640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/10_1.png,"According to this table, does Russia have the second highest carbon dioxide emissions worldwide in 2010?",7.8046875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/10_1.png,"According to this table, is the carbon dioxide emission worldwide in 2010 the same for US and India?",10.4609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/10_2.png,"According to this table, does China have the highest carbon dioxide emissions worldwide in 2010?",7.0078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/10_2.png,"According to this table, does US have the highest carbon dioxide emissions worldwide in 2010?",6.7265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/10_2.png,"According to this table, does Russia have the second highest carbon dioxide emissions worldwide in 2010?",6.1171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/table/10_2.png,"According to this table, is the carbon dioxide emission worldwide in 2010 the same for US and India?",9.3984375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/0_1.png,"According to the map provided, is New Mexico state larger than Texas state?",-2.6015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/0_1.png,"According to the map provided, is Texas state larger than California state?",-2.7109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/0_1.png,"According to the map provided, is New Mexico state larger than California state?",-2.6171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/0_1.png,"According to the map provided, is Montana state larger than New Mexico state?",-2.75
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/0_2.png,"According to the map provided, is New Mexico state larger than Texas state?",-0.8671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/0_2.png,"According to the map provided, is Texas state larger than California state?",-0.890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/0_2.png,"According to the map provided, is New Mexico state larger than California state?",-1.7578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/0_2.png,"According to the map provided, is Montana state larger than New Mexico state?",-2.0859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/1_1.png,"According to the map provided, among Arizona, Oklahoma, North Carolina, and Delaware on the map, is Delaware the farthest north?",-0.5546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/1_1.png,"According to the map provided, among Arizona, Oklahoma, North Carolina, and Delaware on the map, is Arizona the farthest north?",-1.1640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/1_1.png,"According to the map provided, among Arizona, Oklahoma, North Carolina, and Delaware on the map, is Oklahoma the farthest north?",-1.1953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/1_1.png,"According to the map provided, among Arizona, Oklahoma, North Carolina, and Delaware on the map, is North Carolina the farthest north?",1.046875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/1_2.png,"According to the map provided, among Arizona, Oklahoma, North Carolina, and Delaware on the map, is Delaware the farthest north?",0.4296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/1_2.png,"According to the map provided, among Arizona, Oklahoma, North Carolina, and Delaware on the map, is Arizona the farthest north?",0.09375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/1_2.png,"According to the map provided, among Arizona, Oklahoma, North Carolina, and Delaware on the map, is Oklahoma the farthest north?",0.015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/1_2.png,"According to the map provided, among Arizona, Oklahoma, North Carolina, and Delaware on the map, is North Carolina the farthest north?",1.6640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/2_1.png,"According to the map, does the prime meridian intersect the Atlantic Ocean, Southern Ocean, and Arctic Ocean?",0.40625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/2_1.png,"According to the map, does the prime meridian intersect the Pacific Ocean, Southern Ocean, and Arctic Ocean?",0.71875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/2_2.png,"According to the map, does the prime meridian intersect the Atlantic Ocean, Southern Ocean, and Arctic Ocean?",0.1640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/2_2.png,"According to the map, does the prime meridian intersect the Pacific Ocean, Southern Ocean, and Arctic Ocean?",0.5546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/3_1.png,"Based on the map, did the Democratic Party win Texas in the 2020 elections?",1.8125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/3_1.png,"Based on the map, did the Republic Party win Texas in the 2020 elections?",1.9453125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/3_2.png,"Based on the map, did the Democratic Party win Texas in the 2020 elections?",1.6328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/3_2.png,"Based on the map, did the Republic Party win Texas in the 2020 elections?",1.7578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/4_1.png,"Based on the map, are the Rocky Mountains located in North America?",0.6171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/4_1.png,"Based on the map, are the Rocky Mountains located in Asia?",2.140625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/4_1.png,"Based on the map, are the Himalayas Mountains located in North America?",1.140625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/4_1.png,"Based on the map, are the Himalayas Mountains located in Asia?",0.3203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/4_2.png,"Based on the map, are the Rocky Mountains located in North America?",0.6796875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/4_2.png,"Based on the map, are the Rocky Mountains located in Asia?",1.65625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/4_2.png,"Based on the map, are the Himalayas Mountains located in North America?",0.078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/4_2.png,"Based on the map, are the Himalayas Mountains located in Asia?",-1.0390625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/5_1.png,"According to the image, is Michigan the only U.S. state that shares a border with Lake Huron?",1.7109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/5_1.png,"According to the image, is Michigan the only U.S. state that shares a border with Lake Ontario?",3.3046875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/5_1.png,"According to the image, is New York the only U.S. state that shares a border with Lake Huron?",-0.890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/5_1.png,"According to the image, is New York the only U.S. state that shares a border with Lake Ontario?",0.3671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/5_2.png,"According to the image, is Michigan the only U.S. state that shares a border with Lake Huron?",1.640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/5_2.png,"According to the image, is Michigan the only U.S. state that shares a border with Lake Ontario?",3.2421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/5_2.png,"According to the image, is New York the only U.S. state that shares a border with Lake Huron?",-0.53125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/5_2.png,"According to the image, is New York the only U.S. state that shares a border with Lake Ontario?",0.7734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/6_1.png,"According to the map, can I take the Blue Line towards the Pentagon on the DC Metro system?",0.140625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/6_1.png,"According to the map, can I take the Red Line towards the Pentagon on the DC Metro system?",0.6328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/6_1.png,"According to the map, can I take the Yellow Line towards the Pentagon on the DC Metro system?",0.9296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/6_2.png,"According to the map, can I take the Blue Line towards the Pentagon on the DC Metro system?",0.609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/6_2.png,"According to the map, can I take the Red Line towards the Pentagon on the DC Metro system?",1.1328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/6_2.png,"According to the map, can I take the Yellow Line towards the Pentagon on the DC Metro system?",1.1015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/7_1.png,"According to the image, is Key West the southernmost point of Florida?",-6.95703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/7_1.png,"According to the image, is Miami the southernmost point of Florida?",-5.9296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/7_2.png,"According to the image, is Key West the southernmost point of Florida?",-6.80859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/7_2.png,"According to the image, is Miami the southernmost point of Florida?",-5.76953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/8_1.png,"Based on the map, is Charles County located to the south of Prince George's County?",-3.1015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/8_1.png,"Based on the map, is Calvert County located to the east of Cecil County?",-2.3984375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/8_1.png,"Based on the map, is Kent County located to the north of Cecil County?",-4.171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/8_2.png,"Based on the map, is Charles County located to the south of Prince George's County?",-3.53125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/8_2.png,"Based on the map, is Calvert County located to the east of Cecil County?",-2.2421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/8_2.png,"Based on the map, is Kent County located to the north of Cecil County?",-5.09375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/9_1.png,"According to the image, does Bolivia cover part of the Amazon Basin?",-1.8515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/9_1.png,"According to the image, does Chile cover part of the Amazon Basin?",-5.1484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/9_2.png,"According to the image, does Bolivia cover part of the Amazon Basin?",-1.8515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/9_2.png,"According to the image, does Chile cover part of the Amazon Basin?",-5.02734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/10_1.png,"According to the image, does the Oyashio Current flow from the south to the north, while the Kuroshio Current flows from the north to the south?",4.3984375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/10_1.png,"According to the image, does the Kuroshio Current flow through Russia?",-2.7890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/10_2.png,"According to the image, does the Oyashio Current flow from the south to the north, while the Kuroshio Current flows from the north to the south?",4.1796875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/map/10_2.png,"According to the image, does the Kuroshio Current flow through Russia?",-2.3203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/0_1.png,"According to the image, does π(pi) range from 3.1415926 to 3.1415927?",-2.125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/0_1.png,"According to the image, does π(pi) range from 3.1615926 to 3.1615927?",-2.5
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/0_2.png,"According to the image, does π(pi) range from 3.1415926 to 3.1415927?",-2.7578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/0_2.png,"According to the image, does π(pi) range from 3.1615926 to 3.1615927?",-2.9609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/1_1.png,Is the formula in the image representative of the mass-energy equivalence concept in Einstein's theory?,1.7421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/1_2.png,Is the formula in the image representative of the mass-energy equivalence concept in Einstein's theory?,1.609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/2_1.png,"According to the image, does the Euler's Number 'e' range from 2.71 to 2.72?",-3.4765625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/2_1.png,"According to the image which is about the Euler's Number, does the Euler's Number 'e' range from 2.70 to 2.71?",-1.578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/2_1.png,"According to the image, does the Euler's Number 'e' range from 2.72 to 2.73?",-4.2890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/2_2.png,"According to the image, does the Euler's Number 'e' range from 2.71 to 2.72?",-3.3671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/2_2.png,"According to the image, does the Euler's Number 'e' range from 2.70 to 2.71?",-3.8359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/2_2.png,"According to the image, does the Euler's Number 'e' range from 2.72 to 2.73?",-4.1640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/3_1.png,"According to the image, does the value of the square root of 2 range from 1.40 to 1.41?",0.2265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/3_1.png,"According to the image, does the value of the square root of 2 range from 1.41 to 1.42?",0.78125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/3_1.png,"According to the image, does the value of the square root of 2 range from 1.42 to 1.43?",0.3203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/3_2.png,"According to the image, does the value of the square root of 2 range from 1.40 to 1.41?",0.1484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/3_2.png,"According to the image, does the value of the square root of 2 range from 1.41 to 1.42?",0.7421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/3_2.png,"According to the image, does the value of the square root of 2 range from 1.42 to 1.43?",0.2578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/4_1.png,Is the formula in this image representative of the Gravity equation?,5.3515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/4_1.png,"According to the image, is the formula F=G * m_1 * m_2 / r^2 representative of the Gravity equation?",5.5859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/4_2.png,Is the formula in this image representative of the Gravity equation?,5.0234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/4_2.png,"According to the image, is the formula F=G * m_1 * m_2 / r^2 representative of the Gravity equation?",5.2109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/5_1.png,Is the formula in this image representative of the Euler equation?,3.5859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/5_1.png,Is the formula e^ix = cos x + i x representative of the equation in this figure?,2.0859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/5_2.png,Is the formula in this image representative of the Euler equation?,4.1953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/5_2.png,Is the formula e^ix = cos x + i x representative of the equation in this figure?,2.2265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/6_1.png,"According to the image, does the value of Gravity constant 'G' range from 6.66 * 10^-11 to 6.68 * 10^-11?",4.4140625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/6_1.png,"According to the image, does the value of Gravity constant 'G' range from 6.68 * 10^-11 to 6.70 * 10^-11?",4.0703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/6_2.png,"According to the image, does the value of Gravity constant 'G' range from 6.66 * 10^-11 to 6.68 * 10^-11?",2.4453125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/6_2.png,"According to the image, does the value of Gravity constant 'G' range from 6.68 * 10^-11 to 6.70 * 10^-11?",2.5859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/7_1.png,"According to the image, is the text in this figure the four freedoms proposed by Franklin D. Roosevelt?",-0.375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/7_1.png,"According to the image, is the freedom from fear among the four freedoms proposed in this image?",1.3125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/7_2.png,"According to the image, is the text in this figure the four freedoms proposed by Franklin D. Roosevelt?",-2.1328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/7_2.png,"According to the image, is the freedom from fear among the four freedoms proposed in this image?",-1.703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/8_1.png,Is the text in this figure made at West Berlin?,-0.6484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/8_1.png,Is the text in this figure made by John F. Kennedy?,-4.140625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/8_2.png,Is the text in this figure made at West Berlin?,-1.1015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/8_2.png,Is the text in this figure made by John F. Kennedy?,-3.984375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/9_1.png,Is the text in this figure made by Abraham Lincoln?,-2.7265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/9_1.png,Is the text in this figure made at Gettysburg?,-1.5234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/9_2.png,Is the text in this figure made by Abraham Lincoln?,-4.8125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/9_2.png,Is the text in this figure made at Gettysburg?,-2.03125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/10_1.png,Is the text in this figure made by Ronald Reagan?,-4.6484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/10_1.png,Is the text in this figure trying to talk to Gorbachev?,3.7578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/10_2.png,Is the text in this figure made by Ronald Reagan?,-4.6875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/10_2.png,Is the text in this figure trying to talk to Gorbachev?,-0.1640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/11_1.png,Is the text in this figure made by John F. Kennedy?,-2.7109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/11_1.png,Is the text in this figure made in Canada?,-11.96875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/11_2.png,Is the text in this figure made by John F. Kennedy?,-5.484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/11_2.png,Is the text in this figure made in Canada?,-5.36328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/12_1.png,Is the text in this figure made by Winston Churchill?,-5.7890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/12_1.png,Is the text in this figure made in the U.K.?,-10.28125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/12_2.png,Is the text in this figure made by Winston Churchill?,-8.140625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VS/ocr/12_2.png,Is the text in this figure made in the U.K.?,-14.25
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/0_0.png,Is the right orange circle the same size as the left orange circle?,-1.7265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/0_0.png,Is the right orange circle larger than the left orange circle?,-1.46875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/0_0.png,Is the right orange circle smaller than the left orange circle?,-1.2734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/0_1.png,Is the right orange circle the same size as the left orange circle?,2.2578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/0_1.png,Is the right orange circle larger than the left orange circle?,2.6171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/0_1.png,Is the right orange circle smaller than the left orange circle?,2.84375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/1_0.png,Is the right grey box larger than the left grey box?,-3.359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/1_0.png,Is the right grey box smaller than the left grey box?,-5.0859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/1_0.png,Is the right grey box the same size as the left grey box?,-4.6015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/1_1.png,Is the right grey box larger than the left grey box?,-3.25
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/1_1.png,Is the right grey box smaller than the left grey box?,-5.0078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/1_1.png,Is the right grey box the same size as the left grey box?,-4.1171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/2_0.png,Is the top line longer than the bottom line?,-4.5546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/2_0.png,Is the top line shorter than the bottom line?,-4.171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/2_0.png,Is the top line the same size as the bottom line?,-3.0703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/2_1.png,Is the top line longer than the bottom line?,-4.40625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/2_1.png,Is the top line shorter than the bottom line?,-4.03125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/2_1.png,Is the top line the same size as the bottom line?,-2.625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/3_0.png,Are the two yellow lines the same length?,2.21875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/3_0.png,Is the top yellow line longer than the bottom yellow line?,1.2421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/3_0.png,Is the top yellow line shorter than the bottom yellow line?,1.234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/3_1.png,Are the two yellow lines the same length?,1.6953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/3_1.png,Is the top yellow line longer than the bottom yellow line?,0.9765625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/3_1.png,Is the top yellow line shorter than the bottom yellow line?,0.9921875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/4_0.png,Are there any grey points actually in the intersection of the white lines?,-7.578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/4_1.png,Are there any grey points actually in the intersection of the white lines?,-2.5859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/5_0.png,The image shows the famous Chubb illusion. Are the center areas of two rectangular fields identical?,-4.3671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/5_0.png,The image shows the famous Chubb illusion. Is the center area on the left larger than the center area on the right?,-3.9375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/5_0.png,The image shows the famous Chubb illusion. Is the center area on the left smaller than the center area on the right?,-3.8359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/5_1.png,The image shows the famous Chubb illusion. Are the center areas of two rectangular fields identical?,-4.390625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/5_1.png,The image shows the famous Chubb illusion. Is the center area on the left larger than the center area on the right?,-3.1640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/5_1.png,The image shows the famous Chubb illusion. Is the center area on the left smaller than the center area on the right?,-3.1640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/6_0.png,Is the vertical line in the middle actually curved?,-11.0390625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/6_1.png,Is the vertical line in the middle actually curved?,-11.3515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/7_0.png,"According to the Torsion dystonia illusion, are the diameters of the three circles the same?",-3.78125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/7_0.png,"According to the Torsion dystonia illusion, are the diameters of the three circles different?",-5.82421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/7_1.png,"According to the Torsion dystonia illusion, are the diameters of the three circles the same?",-5.671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/7_1.png,"According to the Torsion dystonia illusion, are the diameters of the three circles different?",-7.57421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/8_0.png,Is the vertical line the same length as the horizontal line?,1.1015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/8_0.png,Is the vertical line longer than the horizontal line?,0.78125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/8_0.png,Is the vertical line shorter than the horizontal line?,1.8828125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/8_1.png,Is the vertical line the same length as the horizontal line?,-0.203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/8_1.png,Is the vertical line longer than the horizontal line?,-0.203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/8_1.png,Is the vertical line shorter than the horizontal line?,0.734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/9_0.png,Are the two red vertical lines both straight?,-1.09375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/9_0.png,Are the two red vertical lines parallel with each other?,-1.1015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/9_1.png,Are the two red vertical lines both straight?,-3.359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/9_1.png,Are the two red vertical lines parallel with each other?,-3.1328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/10_0.png,"For the given image, are the colors on tiles A and B the same?",-2.3984375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/10_0.png,"For the given image, are the colors on tiles A and B the different?",-3.015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/10_1.png,"For the given image, are the colors on tiles A and B the same?",-2.2109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/10_1.png,"For the given image, are the colors on tiles A and B the different?",-2.6640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/11_0.png,Is the black solid circle on the left the same size as the black solid circle on the right?,-0.640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/11_0.png,Is the black solid circle on the left smaller than the black solid circle on the right?,-0.5546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/11_0.png,Is the black solid circle on the left larger than the black solid circle on the right?,-1.4921875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/11_1.png,Is the black solid circle on the left the same size as the black solid circle on the right?,-0.75
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/11_1.png,Is the black solid circle on the left smaller than the black solid circle on the right?,-0.8046875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/11_1.png,Is the black solid circle on the left larger than the black solid circle on the right?,-1.65625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/12_0.png,Whether there is a triangle perceived in the image?,0.890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/12_1.png,Whether there is a triangle perceived in the image?,0.90625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/13_0.png,Whether lines of blocks are parallel?,-6.66796875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/13_1.png,Whether lines of blocks are parallel?,-6.80078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/14_0.png,Whether the red shape in the image is a square?,3.1953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/14_0.png,This image shows the orbison illusion. Whether the red shape in the image is a square?,5.1328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/14_0.png,Whether the red shape in the image is a rhombus?,7.8203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/14_0.png,This image shows the orbison illusion. Whether the red shape in the image is a rhombus?,8.8046875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/14_1.png,Whether the red shape in the image is a square?,1.171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/14_1.png,This image shows the orbison illusion. Whether the red shape in the image is a square?,3.3203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/14_1.png,Whether the red shape in the image is a rhombus?,7.3515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/14_1.png,This image shows the orbison illusion. Whether the red shape in the image is a rhombus?,8.0234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/15_0.png,Are two triangles in the image the same color?,-3.046875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/15_0.png,Are two triangles in the image different color?,-2.2734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/15_1.png,Are two triangles in the image the same color?,-3.46875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/15_1.png,Are two triangles in the image different color?,-2.5078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/16_0.png,Are two squares in the image the same color?,-4.6484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/16_0.png,Are two squares in the image different color?,-4.546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/16_1.png,Are two squares in the image the same color?,-5.56640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/16_1.png,Are two squares in the image different color?,-5.30859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/17_0.png,Are these two men in the images the same height?,-1.40625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/17_0.png,Are these two men in the images different height?,-2.0546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/17_1.png,Are these two men in the images the same height?,-0.71875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/17_1.png,Are these two men in the images different height?,-1.1484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/18_0.png,Are these two men in the images the same height?,-2.640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/18_0.png,Are these two men in the images different height?,-2.8203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/18_1.png,Are these two men in the images the same height?,-3.0625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/18_1.png,Are these two men in the images different height?,-3.1328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/19_0.png,Are two circles in the image the same color?,1.5703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/19_0.png,The image shows a color illusion. Are two circles in the image the same color?,4.0703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/19_0.png,Are two circles in the image different color?,2.484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/19_0.png,The image shows a color illusion. Are two circles in the image different color?,3.7265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/19_1.png,Are two circles in the image the same color?,1.34375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/19_1.png,The image shows a color illusion. Are two circles in the image the same color?,4.2109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/19_1.png,Are two circles in the image different color?,2.2265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/19_1.png,The image shows a color illusion. Are two circles in the image different color?,3.9921875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/20_0.png,Are blue lines in the image parallel?,3.1640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/20_1.png,Are blue lines in the image parallel?,1.078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/21_0.png,Are two circles in the image the same color?,0.5859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/21_0.png,The image shows a color illusion. Are two circles in the image the same color?,1.9609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/21_0.png,Are two circles in the image different color?,1.5
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/21_0.png,The image shows a color illusion. Are two circles in the image different color?,1.734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/21_1.png,Are two circles in the image the same color?,0.5859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/21_1.png,The image shows a color illusion. Are two circles in the image the same color?,1.390625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/21_1.png,Are two circles in the image different color?,1.6328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/21_1.png,The image shows a color illusion. Are two circles in the image different color?,1.203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/22_0.png,Does the black line align with the blue line?,2.359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/22_1.png,Does the black line align with the blue line?,2.7734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/23_0.png,Are two circles in the image the same color?,-0.546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/23_0.png,Are two circles in the image different color?,-0.28125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/23_1.png,Are two circles in the image the same color?,0.0
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/23_1.png,Are two circles in the image different color?,0.171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/24_0.png,Are two circles in the image the same color?,1.1171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/24_0.png,Are two circles in the image different color?,2.1171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/24_1.png,Are two circles in the image the same color?,0.3203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/24_1.png,Are two circles in the image different color?,1.4375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/25_0.png,Is the green circle on left the same size as the green circle on the right?,6.6796875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/25_0.png,Is the green circle on left larger than the green circle on the right?,5.4296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/25_0.png,Is the green circle on left smaller than the green circle on the right?,6.1484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/25_1.png,Is the green circle on left the same size as the green circle on the right?,6.1484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/25_1.png,Is the green circle on left larger than the green circle on the right?,4.6171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/25_1.png,Is the green circle on left smaller than the green circle on the right?,5.3671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/26_0.png,Are orange lines in the image parallel?,2.9765625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/26_1.png,Are orange lines in the image parallel?,5.0234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/27_0.png,Are the green line and the red line the same length in the image?,2.546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/27_0.png,Is the green line longer than the red line in the image?,0.6796875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/27_0.png,Is the green line shorter than the red line in the image?,0.0234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/27_1.png,Are the green line and the red line the same length in the image?,2.171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/27_1.png,Is the green line longer than the red line in the image?,0.25
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/27_1.png,Is the green line shorter than the red line in the image?,-0.375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/28_0.png,Are the yellow line and the red line the same length in the image?,3.7109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/28_0.png,Is the yellow line longer than the red line in the image?,1.71875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/28_0.png,Is the yellow line shorter than the red line in the image?,1.7578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/28_1.png,Are the yellow line and the red line the same length in the image?,2.890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/28_1.png,Is the yellow line longer than the red line in the image?,1.015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/28_1.png,Is the yellow line shorter than the red line in the image?,1.078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/29_0.png,Are the lengths of the vertical line and the horizontal line the same?,-1.09375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/29_0.png,Is the vertical line longer than the horizontal line?,1.2109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/29_0.png,Is the vertical line shorter than the horizontal line?,2.171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/29_1.png,Are the lengths of the vertical line and the horizontal line the same?,-2.1640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/29_1.png,Is the vertical line longer than the horizontal line?,0.40625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/29_1.png,Is the vertical line shorter than the horizontal line?,1.46875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/30_0.png,Is the red line on the left the same length as the red line on the right?,-6.91015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/30_0.png,Is the red line on the left different length as the red line on the right?,-5.953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/30_1.png,Is the red line on the left the same length as the red line on the right?,-5.7421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/illusion/30_1.png,Is the red line on the left different length as the red line on the right?,-5.0859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/0_0.png,"According to parallel lines theorem, is angle 1 + angle 2 = 180 ?",0.53125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/0_0.png,"According to parallel lines theorem, is angle 1 + angle 2 > 180 ?",0.53125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/0_0.png,"According to parallel lines theorem, is angle 1 + angle 2 < 180 ?",0.53125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/0_1.png,"According to parallel lines theorem, is angle 1 + angle 2 = 180 ?",0.8125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/0_1.png,"According to parallel lines theorem, is angle 1 + angle 2 > 180 ?",0.8125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/0_1.png,"According to parallel lines theorem, is angle 1 + angle 2 < 180 ?",0.8125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/1_0.png,Is the value of x in the image 5?,1.078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/1_0.png,Is the value of x in the image larger than 5?,-1.109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/1_0.png,Is the value of x in the image smaller than 5?,-1.71875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/1_1.png,Is the value of x in the image 5?,0.578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/1_1.png,Is the value of x in the image larger than 5?,-2.0859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/1_1.png,Is the value of x in the image smaller than 5?,-2.15625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/2_0.png,Is angleA + angleB +angleC = 180?,-3.203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/2_0.png,Is angleA + angleB +angleC < 180?,-3.203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/2_0.png,Is angleA + angleB +angleC > 180?,-3.203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/2_1.png,Is angleA + angleB +angleC = 180?,-3.0703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/2_1.png,Is angleA + angleB +angleC < 180?,-3.0703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/2_1.png,Is angleA + angleB +angleC > 180?,-3.0703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/3_0.png,"According to the parallel theorem, is angle A equal to angle B?",0.640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/3_0.png,"According to the parallel theorem, is angle A larger than angle B?",-0.0859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/3_0.png,"According to the parallel theorem, is angle A smaller than angle B?",-0.421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/3_1.png,"According to the parallel theorem, is angle A equal to angle B?",-2.765625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/3_1.png,"According to the parallel theorem, is angle A larger than angle B?",-3.484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/3_1.png,"According to the parallel theorem, is angle A smaller than angle B?",-4.2265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/4_0.png,Is the value of x equal to 6?,-7.11328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/4_0.png,Is the value of x larger than 6?,-3.7734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/4_0.png,Is the value of x smaller than 6?,-4.7734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/4_1.png,Is the value of x equal to 6?,-10.1171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/4_1.png,Is the value of x larger than 6?,-7.625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/4_1.png,Is the value of x smaller than 6?,-7.7578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/5_0.png,"The two interior angle bisectors OB and OC of triangle ABC intersect at point O. If angle A is 110 degree, then is the angle BOC equal to 145 degree?",-1.1015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/5_1.png,"If angle A is 110 degree, then is the angle BOC equal to 145 degree?",-0.671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/5_1.png,"If angle A is 110 degree, then is the angle BOC larger than 145 degree?",-0.6640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/5_1.png,"If angle A is 110 degree, then is the angle BOC smaller than 145 degree?",-1.09375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/6_0.png,"According to the figure, are the two orange lines both straight?",-1.46875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/6_0.png,"According to the figure, are the two orange lines both vertical?",-1.0546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/6_0.png,"According to the figure, are the two orange lines both curved?",-1.0
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/6_1.png,"According to the figure, are the two orange lines both straight?",-1.5546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/6_1.png,"According to the figure, are the two orange lines both vertical?",-1.6875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/6_1.png,"According to the figure, are the two orange lines both curved?",-1.1953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/7_0.png,The area of B is 16 and the of area of C is 9. Is the area of square A equal to 25?,0.2890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/7_0.png,The area of B is 16 and the of area of C is 9. Is the area of square A larger than 25?,0.15625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/7_0.png,The area of B is 16 and the of area of C is 9. Is the area of square A smaller than 25?,0.671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/7_1.png,The area of B is 16 and the of area of C is 9. Is the area of square A equal to 25?,-2.109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/7_1.png,The area of B is 16 and the of area of C is 9. Is the area of square A larger than 25?,-1.921875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/7_1.png,The area of B is 16 and the of area of C is 9. Is the area of square A smaller than 25?,-1.390625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/8_0.png,Is the area of the rectangle equal to 12?,-0.0390625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/8_0.png,Is the area of the rectangle larger than 12?,-0.3515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/8_0.png,Is the area of the rectangle smaller than 12?,-1.0
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/8_1.png,Is the area of the ABCD equal to 12?,0.140625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/8_1.png,Is the area of the ABCD larger than 12?,0.421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/8_1.png,Is the area of the ABCD smaller than 12?,-1.5625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/9_0.png,"As shown in the figure, ∠AOB = 100.0, is the degree of ∠ACB to equal 50.0?",-0.5625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/9_0.png,"As shown in the figure, ∠AOB = 100.0, is the degree of ∠ACB larger than 50.0?",-0.6875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/9_0.png,"As shown in the figure, ∠AOB = 100.0, is the degree of ∠ACB smaller than 50.0?",-1.53125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/9_1.png,"As shown in the figure, ∠AOB = 100.0, is the degree of ∠ACB to equal 50.0?",-2.5625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/9_1.png,"As shown in the figure, ∠AOB = 100.0, is the degree of ∠ACB larger than 50.0?",-2.140625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/9_1.png,"As shown in the figure, ∠AOB = 100.0, is the degree of ∠ACB smaller than 50.0?",-3.0859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/10_0.png,"In triangle ABC, if AF, BE, CD, are the three midlines, is M the centroid of triangle ABC?",5.2734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/10_0.png,"In triangle ABC, if AF, BE, CD, are the three midlines, is M the incenter of triangle ABC?",5.4609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/10_0.png,"In triangle ABC, if AF, BE, CD, are the three midlines, is M the othocenter of triangle ABC?",4.3203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/10_1.png,"In triangle ABC, if AF, BE, CD, are the three midlines, is M the centroid of triangle ABC?",5.3515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/10_1.png,"In triangle ABC, if AF, BE, CD, are the three midlines, is M the incenter of triangle ABC?",5.2734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/10_1.png,"In triangle ABC, if AF, BE, CD, are the three midlines, is M the othocenter of triangle ABC?",4.0078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/11_0.png,"If DM=EM=FM, then is M the incenter of triangle ABC?",3.0625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/11_0.png,"If DM=EM=FM, then is M the circumcenter of triangle ABC?",4.1796875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/11_0.png,"If DM=EM=FM, then is M the centroid of triangle ABC?",2.65625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/11_1.png,"If AM=BM=CM, then is M the incenter of triangle ABC?",1.3828125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/11_1.png,"If AM=BM=CM, then is M the circumcenter of triangle ABC?",2.6328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/11_1.png,"If AM=BM=CM, then is M the centroid of triangle ABC?",1.0390625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/12_0.png,"If BE ⊥ AC, CD ⊥ AB, AF ⊥ BC, then is M the orthocenter of triangle ABC?",1.203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/12_0.png,"If BE ⊥ AC, CD ⊥ AB, AF ⊥ BC, then is M the incenter of triangle ABC?",2.046875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/12_0.png,"If BE ⊥ AC, CD ⊥ AB, AF ⊥ BC, then is M the circumcenter of triangle ABC?",0.546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/12_1.png,"If BE ⊥ AC, CD ⊥ AB, AF ⊥ BC, then is M the orthocenter of triangle ABC?",2.7734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/12_1.png,"If BE ⊥ AC, CD ⊥ AB, AF ⊥ BC, then is M the incenter of triangle ABC?",3.2421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/12_1.png,"If BE ⊥ AC, CD ⊥ AB, AF ⊥ BC, then is M the circumcenter of triangle ABC?",1.8828125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/13_0.png,"If D is the midpoint of line segment AB, then is D the circumcenter of triangle ABC?",1.9609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/13_0.png,"If D is the midpoint of line segment AB, then is D the incenter of triangle ABC?",3.1328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/13_0.png,"If D is the midpoint of line segment AB, then is D the orthocenter of triangle ABC?",3.03125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/13_1.png,"If D is the midpoint of line segment AB, then is D the circumcenter of triangle ABC?",2.9609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/13_1.png,"If D is the midpoint of line segment AB, then is D the incenter of triangle ABC?",3.7421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/13_1.png,"If D is the midpoint of line segment AB, then is D the orthocenter of triangle ABC?",3.7265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/14_0.png,"If angle BAF equals to angle CAF, is CF equal to BF?",-3.96875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/14_0.png,"If angle BAF equals to angle CAF, is CF larger than BF?",-5.421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/14_0.png,"If angle BAF equals to angle CAF, is CF smaller than BF?",-5.30859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/14_1.png,"If angle BAF equals to angle CAF, is CF equal to BF?",-3.3046875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/14_1.png,"If angle BAF equals to angle CAF, is CF larger than BF?",-4.4140625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/14_1.png,"If angle BAF equals to angle CAF, is CF smaller than BF?",-4.4921875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/15_0.png,"If angle A is equal to 60 degree, is AB = 2AC?",-0.8046875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/15_0.png,"If angle A is equal to 60 degree, is AB larger than 2AC?",0.3203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/15_0.png,"If angle A is equal to 60 degree, is AB smaller than 2AC?",-0.4609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/15_1.png,"If angle A is equal to 60 degree, is AB = 2AC?",-1.734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/15_1.png,"If angle A is equal to 60 degree, is AB larger than 2AC?",-0.7109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/15_1.png,"If angle A is equal to 60 degree, is AB smaller than 2AC?",-1.5
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/16_0.png,"If angle B is equal to 45 degree, is AB = sqrt(2)AC?",-0.6328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/16_0.png,"If angle B is equal to 45 degree, is AB larger than sqrt(2)AC?",0.8828125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/16_0.png,"If angle B is equal to 45 degree, is AB smaller than sqrt(2)AC?",0.4296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/16_1.png,"If angle B is equal to 45 degree, is AB = sqrt(2)AC?",-1.8359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/16_1.png,"If angle B is equal to 45 degree, is AB larger than sqrt(2)AC?",0.03125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/16_1.png,"If angle B is equal to 45 degree, is AB smaller than sqrt(2)AC?",-0.453125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/17_0.png,"If AE = CE and AB=BC, is BE perpendicular to AC?",-2.1953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/17_0.png,"If AE = CE and AB=BC, is AF perpendicular to BC?",-0.6875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/17_0.png,"If AE = CE and AB=BC, is CD perpendicular to AB?",-1.65625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/17_1.png,"If AE = CE and AB=BC, is BE perpendicular to AC?",-2.4375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/17_1.png,"If AE = CE and AB=BC, is AF perpendicular to BC?",-1.09375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/math/17_1.png,"If AE = CE and AB=BC, is CD perpendicular to AB?",-1.9296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/0_0.png,"Does the image show ""Hot dry noodles from Wuhan""?",3.9609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/0_0.png,"Does the image show ""Hot dry noodles from Shandong""?",3.0859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/0_1.png,"Does the image show ""Hot dry noodles from Wuhan""?",3.8984375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/0_1.png,"Does the image show ""Hot dry noodles from Shandong""?",3.1171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/1_0.png,"Does the image show ""Beijing Roast Duck""?",2.2578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/1_0.png,"Does the image show ""Guangxi Roast Duck""?",2.671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/1_1.png,"Does the image show ""Beijing Roast Duck""?",2.1328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/1_1.png,"Does the image show ""Guangxi Roast Duck""?",2.703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/2_0.png,"According to the text in this image, is this a poster for ""The Shawshank Redemption""?",8.5703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/2_0.png,"According to the text in this image, is this a poster for ""Forrest Gump""?",-10.9609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/2_1.png,"According to the text in this image, is this a poster for ""The Shawshank Redemption""?",-6.9453125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/2_1.png,"According to the text in this image, is this a poster for ""Forrest Gump""?",2.0546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/3_0.png,"According to the pizza image in the figure, is this pizza a Margherita Pizza?",-1.859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/3_0.png,"According to the pizza image in the figure, is this pizza a Hawaiian Pizza?",-10.484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/3_0.png,"According to the pizza image in the figure, is this pizza a Pepperoni Pizza?",-8.875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/3_1.png,"According to the pizza image in the figure, is this pizza a Margherita Pizza?",-6.76953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/3_1.png,"According to the pizza image in the figure, is this pizza a Hawaiian Pizza?",-4.8359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/3_1.png,"According to the pizza image in the figure, is this pizza a Pepperoni Pizza?",-9.7578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/3_2.png,"According to the pizza image in the figure, is this pizza a Margherita Pizza?",-6.99609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/3_2.png,"According to the pizza image in the figure, is this pizza a Hawaiian Pizza?",-10.34375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/3_2.png,"According to the pizza image in the figure, is this pizza a Pepperoni Pizza?",-5.7734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/4_0.png,"According to the text in this image, is this a Parma ham?",-1.0546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/4_0.png,"According to the text in this image, is this a Roma ham?",-2.4375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/4_1.png,"According to the text in this image, is this a Parma ham?",-1.2734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/4_1.png,"According to the text in this image, is this a Roma ham?",1.3828125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/5_0.png,"According to the cake in the image, is this a black forest cake?",-1.5703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/5_0.png,"According to the cake in the image, is this a red forest cake?",-3.296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/5_1.png,"According to the cake in the image, is this a black forest cake?",-2.53125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/5_1.png,"According to the cake in the image, is this a red forest cake?",-0.0078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/6_0.png,"According to the cake in the image, is this a red velvet cake?",-2.8515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/6_0.png,"According to the cake in the image, is this a red forest cake?",-6.76171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/6_1.png,"According to the cake in the image, is this a red velvet cake?",-4.1328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/6_1.png,"According to the cake in the image, is this a red forest cake?",-4.3359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/7_0.png,"According to the text below the logo, is this image for Al Jazeera?",2.0546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/7_0.png,"According to the text below the logo, is this image for Al-Jazari?",-0.5703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/7_1.png,"According to the text below the logo, is this image for Al Jazeera?",2.6015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/7_1.png,"According to the text below the logo, is this image for Al-Jazari?",-0.484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/8_0.png,"According to the text given in the image, is this a New York strip steak?",-1.59375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/8_0.png,"According to the text given in the image, is this a Boston strip steak?",-3.0078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/8_1.png,"According to the text given in the image, is this a New York strip steak?",-4.75
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/8_1.png,"According to the text given in the image, is this a Boston strip steak?",-2.90625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/9_0.png,"According to the text given in the image, is this a New York style cheesecake?",2.90625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/9_0.png,"According to the text given in the image, is this a Washington style cheesecake?",-3.921875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/9_1.png,"According to the text given in the image, is this a New York style cheesecake?",-3.125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/9_1.png,"According to the text given in the image, is this a Washington style cheesecake?",0.8359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/10_0.png,"According to the text given in the image, is this restaurant named Texas Roadhouse?",4.0546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/10_0.png,"According to the text given in the image, is this restaurant named Maryland Roadhouse?",-3.2578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/10_1.png,"According to the text given in the image, is this restaurant named Texas Roadhouse?",-1.4453125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/10_1.png,"According to the text given in the image, is this restaurant named Maryland Roadhouse?",5.9765625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/11_0.png,"According to the text given in the image, is this sign located in Las Vegas?",2.6171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/11_0.png,"According to the text given in the image, is this sign located in College Park, MD?",-10.171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/11_1.png,"According to the text given in the image, is this sign located in Las Vegas?",-1.34375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/11_1.png,"According to the text given in the image, is this sign located in College Park, MD?",0.1640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/12_0.png,"According to the lower text given in the image, is this poster for Viktor Tsoi and the Kino band?",4.7890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/12_0.png,"According to the lower text given in the image, is this poster for the DDT band?",-2.6953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/12_1.png,"According to the lower text given in the image, is this poster for Viktor Tsoi and the Kino band?",2.0859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/12_1.png,"According to the lower text given in the image, is this poster for the DDT band?",0.09375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/13_0.png,"According to the text given in the image, is this logo for Red Bull?",1.9296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/13_0.png,"According to the text given in the image, is this logo for Red Deer?",-5.80859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/13_1.png,"According to the text given in the image, is this logo for Red Bull?",1.015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/13_1.png,"According to the text given in the image, is this logo for Red Deer?",2.046875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/14_0.png,"According to the text given in the image, does this poster depict the movie Zootopia?",2.8046875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/14_0.png,"According to the text given in the image, does this poster depict the movie Utopia?",-8.5078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/14_1.png,"According to the text given in the image, does this poster depict the movie Zootopia?",3.6953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/14_1.png,"According to the text given in the image, does this poster depict the movie Utopia?",-1.671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/15_0.png,"According to the text given in the image, is this ice-cream a strawberry flavor ice cream?",-8.46875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/15_0.png,"According to the text given in the image, is this ice-cream a vanilla-chocolate flavor ice cream?",-0.859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/15_1.png,"According to the text given in the image, is this ice-cream a strawberry flavor ice cream?",-2.5234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/15_1.png,"According to the text given in the image, is this ice-cream a vanilla-chocolate flavor ice cream?",-2.671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/16_0.png,"According to the text given in the image, is this ice-cream a strawberry flavor ice cream?",-8.421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/16_0.png,"According to the text given in the image, is this ice-cream a chocolate flavor ice cream?",-3.9296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/16_1.png,"According to the text given in the image, is this ice-cream a strawberry flavor ice cream?",-3.5625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/16_1.png,"According to the text given in the image, is this ice-cream a chocolate flavor ice cream?",-4.5234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/17_0.png,"According to the text given in the image, does this poster depict the movie Oppenheimer?",3.3515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/17_0.png,"According to the text given in the image, does this poster depict the movie BARBENHEIMER?",-4.6015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/17_1.png,"According to the text given in the image, does this poster depict the movie Oppenheimer?",-3.671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/17_1.png,"According to the text given in the image, does this poster depict the movie BARBENHEIMER?",3.9609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/18_0.png,"According to the text in this image, is this poster for the TV series Tokyo Tarareba Girls?",1.234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/18_0.png,"According to the text in this image, is this poster for the TV series Tokyo Single Girls?",2.671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/18_1.png,"According to the text in this image, is this poster for the TV series Tokyo Tarareba Girls?",1.625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/18_1.png,"According to the text in this image, is this poster for the TV series Tokyo Single Girls?",2.7890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/19_0.png,"According to the text in this image, is this poster for the TV series Reply 1988?",-10.609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/19_0.png,"According to the text in this image, is this poster for the TV series Please Send 1988?",-7.97265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/19_1.png,"According to the text in this image, is this poster for the TV series Reply 1988?",-7.3125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/19_1.png,"According to the text in this image, is this poster for the TV series Please Send 1988?",-5.8828125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/20_0.png,"According to the text in this image, is this ""Youcheng Cake Seasoned with Chicken Meat Floss""?",2.9296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/20_0.png,"According to the text in this image, is this ""Boli Cake Seasoned with Chicken Meat Floss""?",1.140625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/20_1.png,"According to the text in this image, is this ""Youcheng Cake Seasoned with Chicken Meat Floss""?",2.5859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/ocr/20_1.png,"According to the text in this image, is this ""Boli Cake Seasoned with Chicken Meat Floss""?",0.609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/0_0.png,"In the image, is Xuanzang accompanied by his three disciples?",1.0703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/0_1.png,"In the image, is Xuanzang accompanied by his three disciples?",-2.0859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/1_0.png,Is it the logo for air Jordan?,2.359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/1_0.png,Is it the logo for Qiaodan Sports?,-0.0234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/1_1.png,Is it the logo for air Jordan?,-4.6328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/1_1.png,Is it the logo for Qiaodan Sports?,0.75
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/2_0.png,Are all the animals in this figure chickens?,-3.9140625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/2_0.png,Are there any ducks in this figure?,-8.203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/2_1.png,Are all the animals in this figure chickens?,-3.9453125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/2_1.png,Are there any ducks in this figure?,-3.75
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/3_0.png,Are all the characters here from the Asterix the Gaul?,3.7265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/3_0.png,Is there a Snoopy in this figure?,-8.9453125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/3_1.png,Are all the characters here from the Asterix the Gaul?,0.8984375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/3_1.png,Is there a Snoopy in this figure?,-3.21875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/4_0.png,Are all the animals in this figure swans?,-1.625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/4_0.png,Are there any ducks in this figure?,-4.578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/4_1.png,Are all the animals in this figure swans?,-1.609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/4_1.png,Are there any ducks in this figure?,-0.90625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/5_0.png,Are all the items here engineering tools?,-1.796875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/5_0.png,Are there any carrots in this figure?,-14.5
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/5_1.png,Are all the items here engineering tools?,-2.125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/5_1.png,Are there any carrots in this figure?,-10.2890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/5_2.png,Are all the items here engineering tools?,-1.6796875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/5_2.png,Are there any carrots in this figure?,-4.4453125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/6_0.png,Is this the official KFC logo?,3.6640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/6_0.png,Does this figure depict Colonel Sanders?,1.375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/6_1.png,Is this the official KFC logo?,1.7890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/6_1.png,Does this figure depict Colonel Sanders?,0.6640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/7_0.png,Is this the official NBA logo?,4.4921875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/7_0.png,Does this figure depict a singer?,-13.421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/7_1.png,Is this the official NBA logo?,3.7734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/7_1.png,Does this figure depict a singer?,-9.9453125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/8_0.png,Are all the items in this figure cookies?,-5.4140625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/8_0.png,Are there any dog faces in this figure?,-14.578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/8_1.png,Are all the items in this figure cookies?,-4.609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/8_1.png,Are there any dog faces in this figure?,-6.390625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/9_0.png,Are all the animals in this figure prehistoric?,1.15625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/9_0.png,Are there any hens in this figure?,-6.65234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/9_1.png,Are all the animals in this figure prehistoric?,2.703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/9_1.png,Are there any hens in this figure?,-5.0546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/10_0.png,Are all the items in this figure vegetables or fruits?,-2.953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/10_0.png,Is there any meat in this figure?,-9.78125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/10_1.png,Are all the items in this figure vegetables or fruits?,-2.796875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/10_1.png,Is there any meat in this figure?,-8.703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/11_0.png,Are all the items in this figure ice cream bars?,-0.9375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/11_0.png,Is there any yogurt in this figure?,-8.59375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/11_1.png,Are all the items in this figure ice cream bars?,0.109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/11_1.png,Is there any yogurt in this figure?,-6.8984375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/12_0.png,Are all the penguins in this figure characters of the movie Madagascar?,2.34375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/12_0.png,Are there any real penguins in this figure?,-2.40625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/12_1.png,Are all the penguins in this figure characters of the movie Madagascar?,2.9296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/12_1.png,Are there any real penguins in this figure?,-0.375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/13_0.png,Are all the characters in this figure from the movie Zootopia?,2.15625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/13_0.png,Is Bunny Bug in this figure?,-7.2109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/13_1.png,Are all the characters in this figure from the movie Zootopia?,1.828125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/13_1.png,Is Bunny Bug in this figure?,-5.1484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/14_0.png,Are all the characters in this figure from the manga series One Piece?,2.4296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/14_0.png,Are there any characters in this figure from the manga series Detective Conan?,-13.140625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/14_1.png,Are all the characters in this figure from the manga series One Piece?,3.0625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/14_1.png,Are there any characters in this figure from the manga series Detective Conan?,-9.34375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/15_0.png,Are all the characters in this figure from Pokemon?,0.171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/15_0.png,Are there any characters in this figure from Digimon?,-8.59375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/15_1.png,Are all the characters in this figure from Pokemon?,-0.25
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/15_1.png,Are there any characters in this figure from Digimon?,-7.0390625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/16_0.png,Are all the characters in this figure from The Story of the Little Mole?,2.859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/16_0.png,Is Jerry the Mouse in this figure?,-9.6640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/16_1.png,Are all the characters in this figure from The Story of the Little Mole?,1.4921875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/16_1.png,Is Jerry the Mouse in this figure?,-5.36328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/17_0.png,Are all the items in this figure fried chicken?,0.21875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/17_0.png,Is there an orange cat in this figure?,-13.1171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/17_1.png,Are all the items in this figure fried chicken?,-0.3359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/17_1.png,Is there an orange cat in this figure?,-5.18359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/18_0.png,"Does this figure mainly depict a hen and eggs, no potatoes?",-1.390625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/18_0.png,Are there any potatoes in this figure?,-8.6875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/18_1.png,"Does this figure mainly depict a hen and eggs, no potatoes?",-0.875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/18_1.png,Are there any potatoes in this figure?,-6.79296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/19_0.png,Does this figure only contain SpongeBob?,-5.37109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/19_0.png,Are there any cheeses in this figure?,-11.6171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/19_1.png,Does this figure only contain SpongeBob?,-4.421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/figure/19_1.png,Are there any cheeses in this figure?,-9.8984375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/0_0.png,Is the sequence of the image moving?,1.0
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/0_1.png,Is the sequence of the image moving?,-1.0234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/1_0.png,"According to the positive sequence images, does Homer Simpson disappear into the bushes?",10.1953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/1_0.png,"According to the positive sequence images, does Homer Simpson come out of the bushes?",9.9453125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/1_0.png,"Homer Simpson disappears into the bushes. According to the positive sequence of the images, are they in the correct order?",10.8359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/1_0.png,"Homer Simpson comes out of the bushes. According to the positive sequence of the images, are they in the correct order?",9.9140625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/1_1.png,"According to the positive sequence images, does Homer Simpson disappear into the bushes?",10.3671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/1_1.png,"According to the positive sequence images, does Homer Simpson come out of the bushes?",9.9296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/1_1.png,"Homer Simpson disappears into the bushes. According to the positive sequence of the images, are they in the correct order?",11.1015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/1_1.png,"Homer Simpson comes out of the bushes. According to the positive sequence of the images, are they in the correct order?",9.8828125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/1_2.png,"According to the positive sequence images, does Homer Simpson disappear into the bushes?",9.5078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/1_2.png,"According to the positive sequence images, does Homer Simpson come out of the bushes?",9.2578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/1_2.png,"Homer Simpson disappears into the bushes. According to the positive sequence of the images, are they in the correct order?",10.3046875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/1_2.png,"Homer Simpson comes out of the bushes. According to the positive sequence of the images, are they in the correct order?",9.4140625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/2_0.png,"According to the positive sequence of the images, does the basketball player make a dunk?",5.3515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/2_0.png,"According to the positive sequence of the images, does the basketball player make a three-point shooting?",4.1484375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/2_0.png,"According to the positive sequence of the images, are they in the correct order?",-8.4375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/2_1.png,"According to the positive sequence of the images, does the basketball player make a dunk?",4.4140625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/2_1.png,"According to the positive sequence of the images, does the basketball player make a three-point shooting?",3.9609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/2_1.png,"According to the positive sequence of the images, are they in the correct order?",-9.421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/3_0.png,"According to the positive sequence of the images, does the man open the door?",1.6953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/3_0.png,"According to the positive sequence of the images, does the man close the door?",0.578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/3_0.png,"The man opens the door. According to the positive sequence of the images, are they in the correct order?",0.2890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/3_0.png,"The man closes the door. According to the positive sequence of the images, are they in the correct order?",-0.5546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/3_1.png,"According to the positive sequence of the images, does the man open the door?",4.1015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/3_1.png,"According to the positive sequence of the images, does the man close the door?",2.7890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/3_1.png,"The man opens the door. According to the positive sequence of the images, are they in the correct order?",3.1328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/3_1.png,"The man closes the door. According to the positive sequence of the images, are they in the correct order?",2.1875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/3_2.png,"According to the positive sequence of the images, does the man open the door?",2.0859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/3_2.png,"According to the positive sequence of the images, does the man close the door?",1.203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/3_2.png,"The man opens the door. According to the positive sequence of the images, are they in the correct order?",0.953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/3_2.png,"The man closes the door. According to the positive sequence of the images, are they in the correct order?",0.3828125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/4_0.png,"According to the positive sequence of the images, does the blue car attempt to park?",3.0625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/4_0.png,"According to the positive sequence of the images, does the blue car attempt to leave the parking space?",2.9140625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/4_0.png,"The blue car attempts to park. According to the positive sequence of the images, are they in the correct order?",4.1328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/4_0.png,"The blue car attempts to leave the parking space. According to the positive sequence of the images, are they in the correct order?",3.9609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/4_1.png,"According to the positive sequence of the images, does the blue car attempt to park?",3.6015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/4_1.png,"According to the positive sequence of the images, does the blue car attempt to leave the parking space?",3.3203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/4_1.png,"The blue car attempts to park. According to the positive sequence of the images, are they in the correct order?",4.6015625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/4_1.png,"The blue car attempts to leave the parking space. According to the positive sequence of the images, are they in the correct order?",4.1796875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/4_2.png,"According to the positive sequence of the images, does the blue car attempt to park?",3.4609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/4_2.png,"According to the positive sequence of the images, does the blue car attempt to leave the parking space?",3.0859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/4_2.png,"The blue car attempts to park. According to the positive sequence of the images, are they in the correct order?",4.5546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/4_2.png,"The blue car attempts to leave the parking space. According to the positive sequence of the images, are they in the correct order?",4.1953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/5_0.png,"According to the positive sequence of the images, does the baby attempt to put on the clothes?",0.9375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/5_0.png,"According to the positive sequence of the images, does the baby attempt to take off the clothes?",1.03125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/5_0.png,"The baby attempts to put on the clothes. According to the positive sequence of the images, are they in the correct order?",0.171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/5_0.png,"The baby attempts to take off the clothes. According to the positive sequence of the images, are they in the correct order?",1.3515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/5_1.png,"According to the positive sequence of the images, does the baby attempt to put on the clothes?",0.03125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/5_1.png,"According to the positive sequence of the images, does the baby attempt to take off the clothes?",0.1171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/5_1.png,"The baby attempts to put on the clothes. According to the positive sequence of the images, are they in the correct order?",-0.9140625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/5_1.png,"The baby attempts to take off the clothes. According to the positive sequence of the images, are they in the correct order?",0.390625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/6_0.png,"According to the positive sequence of the images, does the temperature increase?",-1.3671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/6_0.png,"According to the positive sequence of the images, does the temperature decrease?",-2.2890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/6_0.png,"The temperature increases. According to the positive sequence of the images, are they in the correct order?",0.53125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/6_0.png,"The temperature decreases. According to the positive sequence of the images, are they in the correct order?",-0.109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/6_1.png,"According to the positive sequence of the images, does the temperature increase?",-1.65625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/6_1.png,"According to the positive sequence of the images, does the temperature decrease?",-2.6328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/6_1.png,"The temperature increases. According to the positive sequence of the images, are they in the correct order?",0.109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/6_1.png,"The temperature decreases. According to the positive sequence of the images, are they in the correct order?",-0.46875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/7_0.png,"According to the positive sequence of the images, is the plug put into the power outlet?",3.0859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/7_0.png,"According to the positive sequence of the images, is the plug removed from the power outlet?",2.7421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/7_0.png,"The plug is put into the power outlet. According to the positive sequence of the images, are they in the correct order?",3.9765625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/7_0.png,"The plug is removed from the power outlet. According to the positive sequence of the images, are they in the correct order?",3.9765625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/7_1.png,"According to the positive sequence of the images, is the plug put into the power outlet?",2.7578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/7_1.png,"According to the positive sequence of the images, is the plug removed from the power outlet?",2.4453125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/7_1.png,"The plug is put into the power outlet. According to the positive sequence of the images, are they in the correct order?",3.9296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/7_1.png,"The plug is removed from the power outlet. According to the positive sequence of the images, are they in the correct order?",4.2109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/8_0.png,"According to the positive sequence of the images, is the blue car moving forward?",-0.4453125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/8_0.png,"According to the positive sequence of the images, is the blue car moving backward?",-1.2578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/8_0.png,"The blue car is moving forward. According to the positive sequence of the images, are they in the correct order?",0.0625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/8_0.png,"The blue car is moving backward. According to the positive sequence of the images, are they in the correct order?",0.03125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/8_1.png,"According to the positive sequence of the images, is the blue car moving forward?",1.453125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/8_1.png,"According to the positive sequence of the images, is the blue car moving backward?",0.796875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/8_1.png,"The blue car is moving forward. According to the positive sequence of the images, are they in the correct order?",2.21875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/8_1.png,"The blue car is moving backward. According to the positive sequence of the images, are they in the correct order?",2.2578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/9_0.png,"According to the positive sequence of the images, is the circle inside autobiographical anticlockwise?",-4.0859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/9_0.png,"According to the positive sequence of the images, is the circle inside autobiographical clockwise?",-3.2578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/9_0.png,"The circle inside is autobiographical anticlockwise. According to the positive sequence of the images, are they in the correct order?",-2.8828125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/9_1.png,"According to the positive sequence of the images, is the circle inside autobiographical anticlockwise?",-4.171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/9_1.png,"According to the positive sequence of the images, is the circle inside autobiographical clockwise?",-3.3984375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/9_1.png,"The circle inside is autobiographical anticlockwise. According to the positive sequence of the images, are they in the correct order?",-3.1875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/10_0.png,"According to the positive sequence of the images, Is this monkey removing the wheel?",1.078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/10_0.png,"According to the positive sequence of the images, Is this monkey installing the wheel?",1.1328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/10_0.png,"This monkey is removing the wheel. According to the positive sequence of the images, are they in the correct order?",3.7265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/10_0.png,"This monkey is installing the wheel. According to the positive sequence of the images, are they in the correct order?",4.1953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/10_1.png,"According to the positive sequence of the images, Is this monkey removing the wheel?",5.8203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/10_1.png,"According to the positive sequence of the images, Is this monkey installing the wheel?",5.4296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/10_1.png,"This monkey is removing the wheel. According to the positive sequence of the images, are they in the correct order?",8.5546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/10_1.png,"This monkey is installing the wheel. According to the positive sequence of the images, are they in the correct order?",8.8984375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/10_2.png,"According to the positive sequence of the images, Is this monkey removing the wheel?",3.5859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/10_2.png,"According to the positive sequence of the images, Is this monkey installing the wheel?",3.4765625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/10_2.png,"This monkey is removing the wheel. According to the positive sequence of the images, are they in the correct order?",6.0546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/10_2.png,"This monkey is installing the wheel. According to the positive sequence of the images, are they in the correct order?",6.6640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/11_0.png,"According to the positive sequence of the images, Is this man throwing a woman into the toilet?",-2.8515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/11_0.png,"According to the positive sequence of the images, Is this woman jumping out from the toilet?",-1.375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/11_0.png,"This man is throwing a woman into the toilet. According to the positive sequence of the images, are they in the correct order?",-3.4375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/11_0.png,"This woman is jumping out from a toilet. According to the positive sequence of the images, are they in the correct order?",-1.4921875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/11_1.png,"According to the positive sequence of the images, Is this man throwing a woman into the toilet?",-1.7578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/11_1.png,"According to the positive sequence of the images, Is this woman jumping out from the toilet?",-0.6953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/11_1.png,"This man is throwing a woman into the toilet. According to the positive sequence of the images, are they in the correct order?",-1.65625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/11_1.png,"This woman is jumping out from a toilet. According to the positive sequence of the images, are they in the correct order?",-0.53125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/11_2.png,"According to the positive sequence of the images, Is this man throwing a woman into the toilet?",-0.2890625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/11_2.png,"According to the positive sequence of the images, Is this woman jumping out from the toilet?",0.2265625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/11_2.png,"This man is throwing a woman into the toilet. According to the positive sequence of the images, are they in the correct order?",-0.7421875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/11_2.png,"This woman is jumping out from a toilet. According to the positive sequence of the images, are they in the correct order?",0.1953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/12_0.png,"According to the positive sequence of the images, Is the circle moving towards to right?",-0.7109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/12_0.png,"According to the positive sequence of the images, Is the circle keeping in the same place?",-0.6171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/12_1.png,"According to the positive sequence of the images, Is the circle moving towards to right?",-1.078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/12_1.png,"According to the positive sequence of the images, Is the circle keeping in the same place?",-1.296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/12_1.png,"According to the positive sequence of the images, Is the circle moving towards to left?",-0.96875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/12_2.png,"According to the positive sequence of the images, Is the circle moving towards to right?",-0.65625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/12_2.png,"According to the positive sequence of the images, Is the circle keeping in the same place?",-0.625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/12_2.png,"According to the positive sequence of the images, Is the circle moving towards to left?",-0.671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/13_0.png,"According to the positive sequence of the images, is there a dog in this video?",-1.1640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/13_0.png,"According to the positive sequence of the images, is there a sloth in this video?",-3.0703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/13_0.png,"According to the positive sequence of the images, is there a cat in this video?",2.515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/14_0.png,"According to the positive sequence of the images, are they skating to left?",-5.83984375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/14_0.png,"According to the positive sequence of the images, are they skating to right?",-5.078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/14_0.png,"They are skating to left. According to the positive sequence of the images, are they in the correct order?",-4.53125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/14_0.png,"They are skating to right. According to the positive sequence of the images, are they in the correct order?",-4.1875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/14_1.png,"According to the positive sequence of the images, are they skating to left?",-3.0625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/14_1.png,"According to the positive sequence of the images, are they skating to right?",-2.25
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/14_1.png,"They are skating to left. According to the positive sequence of the images, are they in the correct order?",-1.8046875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/14_1.png,"They are skating to right. According to the positive sequence of the images, are they in the correct order?",-1.375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/14_2.png,"According to the positive sequence of the images, are they skating to left?",-5.76171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/14_2.png,"According to the positive sequence of the images, are they skating to right?",-4.9140625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/14_2.png,"They are skating to left. According to the positive sequence of the images, are they in the correct order?",-4.4921875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/14_2.png,"They are skating to right. According to the positive sequence of the images, are they in the correct order?",-4.0859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/15_0.png,"According to the positive sequence of the images, is the man running to right?",-7.63671875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/15_0.png,"According to the positive sequence of the images, is the man running to left?",-8.1875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/15_1.png,"According to the positive sequence of the images, is the man running to right?",-7.26171875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/15_1.png,"According to the positive sequence of the images, is the man running to left?",-7.8359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/16_0.png,"According to the positive sequence of the images, is the baby crawling to right?",3.4296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/16_0.png,"According to the positive sequence of the images, is the baby crawling to left?",3.2109375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/16_1.png,"According to the positive sequence of the images, is the baby crawling to right?",3.1796875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/16_1.png,"According to the positive sequence of the images, is the baby crawling to left?",2.9296875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/17_0.png,"According to the positive sequence of the images, is this cartoon character getting closer?",-2.375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/17_0.png,"According to the positive sequence of the images, is this cartoon character getting far away?",0.2734375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/17_0.png,"This cartoon character getting closer. According to the positive sequence of the images, are they in the correct order?",1.9453125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/17_0.png,"This cartoon character getting further away. According to the positive sequence of the images, are they in the correct order?",1.40625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/17_1.png,"According to the positive sequence of the images, is this cartoon character getting closer?",-1.578125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/17_1.png,"According to the positive sequence of the images, is this cartoon character getting far away?",1.0078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/17_1.png,"This cartoon character getting closer. According to the positive sequence of the images, are they in the correct order?",2.6328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/17_1.png,"This cartoon character getting further away. According to the positive sequence of the images, are they in the correct order?",2.203125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/18_0.png,"According to the positive sequence of the images, are they hugging?",-2.0390625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/18_0.png,"According to the positive sequence of the images, are they growing apart?",-2.1875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/18_0.png,"They are hugging. According to the positive sequence of the images, are they in the correct order?",-0.46875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/18_0.png,"They are growing apart. According to the positive sequence of the images, are they in the correct order?",-0.078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/18_1.png,"According to the positive sequence of the images, are they hugging?",-3.0390625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/18_1.png,"According to the positive sequence of the images, are they growing apart?",-4.703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/18_1.png,"They are hugging. According to the positive sequence of the images, are they in the correct order?",-2.0234375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/18_1.png,"They are growing apart. According to the positive sequence of the images, are they in the correct order?",-2.1640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/18_2.png,"According to the positive sequence of the images, are they hugging?",-2.359375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/18_2.png,"According to the positive sequence of the images, are they growing apart?",-2.6328125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/18_2.png,"They are hugging. According to the positive sequence of the images, are they in the correct order?",-0.8515625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/18_2.png,"They are growing apart. According to the positive sequence of the images, are they in the correct order?",-0.5078125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/19_0.png,"According to the positive sequence of the images, Is he running counterclockwise?",-11.1953125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/19_0.png,"According to the positive sequence of the images, Is he running clockwise?",-10.703125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/19_0.png,"He is running counterclockwise. According to the positive sequence of the images, are they in the correct order?",-9.640625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/19_0.png,"He is running clockwise. According to the positive sequence of the images, are they in the correct order?",-9.9921875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/19_1.png,"According to the positive sequence of the images, Is he running counterclockwise?",-9.609375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/19_1.png,"According to the positive sequence of the images, Is he running clockwise?",-9.375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/19_1.png,"He is running counterclockwise. According to the positive sequence of the images, are they in the correct order?",-8.4140625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/19_1.png,"He is running clockwise. According to the positive sequence of the images, are they in the correct order?",-8.859375
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/19_2.png,"According to the positive sequence of the images, Is he running counterclockwise?",-10.9453125
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/19_2.png,"According to the positive sequence of the images, Is he running clockwise?",-10.65625
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/19_2.png,"He is running counterclockwise. According to the positive sequence of the images, are they in the correct order?",-9.5546875
+/content/drive/MyDrive/researh/ijucs/data/hallusionbench/images/VD/video/19_2.png,"He is running clockwise. According to the positive sequence of the images, are they in the correct order?",-10.0

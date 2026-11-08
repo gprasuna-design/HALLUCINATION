@@ -1,0 +1,21 @@
+{
+  "MODEL_B_ID": "HuggingFaceTB/SmolVLM-Instruct",
+  "MODEL_C_4BIT": true,
+  "PILOT": false,
+  "SAMPLE_LIMIT": null,
+  "MODEL_ID": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "MAX_NEW_TOKENS": 64,
+  "TEMPERATURE": 0.0,
+  "N_FOLDS": 5,
+  "BOOTSTRAPS": 2000,
+  "SIG_BOOTSTRAPS": 10000,
+  "CHECKPOINT_EVERY": 100,
+  "EXTERNAL_BASELINES": true,
+  "SE_SAMPLES": 10,
+  "SE_TEMPERATURE": 1.0,
+  "EXTERNAL_BASELINES_ALL_MODELS": false,
+  "RUN_MODEL_C": true,
+  "MODEL_C_ID": "Qwen/Qwen2.5-VL-7B-Instruct",
+  "BATCH_SIZE": 1,
+  "IMAGE_SIZE": 448
+}

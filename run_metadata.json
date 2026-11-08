@@ -1,0 +1,72 @@
+{
+  "python": "3.13.16 (main, Oct  1 2026, 15:40:24) [GCC 13.3.0]",
+  "platform": "Linux-6.6.159+-x86_64-with-glibc2.39",
+  "torch": "2.14.1+cu130",
+  "transformers": "5.22.1",
+  "numpy": "2.4.6",
+  "pandas": "2.2.3",
+  "sklearn": "1.6.1",
+  "scipy": "1.16.3",
+  "gpu_by_model": {
+    "Qwen/Qwen2.5-VL-3B-Instruct": "Tesla T4",
+    "HuggingFaceTB/SmolVLM-Instruct": "Tesla T4",
+    "Qwen/Qwen2.5-VL-7B-Instruct": "Tesla T4"
+  },
+  "dtype_by_model": {
+    "Qwen/Qwen2.5-VL-3B-Instruct": "bfloat16",
+    "HuggingFaceTB/SmolVLM-Instruct": "bfloat16",
+    "Qwen/Qwen2.5-VL-7B-Instruct": "bfloat16"
+  },
+  "siglip_device": "cuda",
+  "model_id": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "visual_model_id": "google/siglip-base-patch16-224",
+  "prompt_template": "Answer the question using only information supported by the image. Do not invent objects, attributes, or relationships. Answer with a single word: yes or no.\nQuestion: {q}",
+  "pope_commit": "08d957b917e5a378a2f99d35b6293c536a66298b",
+  "hallusionbench_commit": "hf:lmms-lab/HallusionBench parquet sha256=fd46946fa6b3f15ab8c8e2e0dacf54bc801db7915f17a47cec5ca872f30de2a9",
+  "model_b_id": "HuggingFaceTB/SmolVLM-Instruct",
+  "model_c_id": "Qwen/Qwen2.5-VL-7B-Instruct",
+  "model_c_4bit": true,
+  "pope_source": "coco",
+  "pope_file_sha256": {
+    "coco_adversarial": "420b3407db1fa9f1187a805dca41cb7b97fd91504e6c2179706188c107fb8ef8",
+    "coco_popular": "72c1a8ad45d0c13514f5f22598261df41d3b533854d29682e924db50ed8aa753",
+    "coco_random": "ac25245170b975a5bdf9080b23fd431dfe6be458bc038259c1f4f09a6bef7994"
+  },
+  "n_images": 500,
+  "seed": 42,
+  "config": {
+    "MODEL_B_ID": "HuggingFaceTB/SmolVLM-Instruct",
+    "MODEL_C_4BIT": true,
+    "PILOT": false,
+    "SAMPLE_LIMIT": null,
+    "MODEL_ID": "Qwen/Qwen2.5-VL-3B-Instruct",
+    "MAX_NEW_TOKENS": 64,
+    "TEMPERATURE": 0.0,
+    "N_FOLDS": 5,
+    "BOOTSTRAPS": 2000,
+    "SIG_BOOTSTRAPS": 10000,
+    "CHECKPOINT_EVERY": 100,
+    "EXTERNAL_BASELINES": true,
+    "SE_SAMPLES": 10,
+    "SE_TEMPERATURE": 1.0,
+    "EXTERNAL_BASELINES_ALL_MODELS": false,
+    "RUN_MODEL_C": true,
+    "MODEL_C_ID": "Qwen/Qwen2.5-VL-7B-Instruct",
+    "BATCH_SIZE": 1,
+    "IMAGE_SIZE": 448
+  },
+  "n_rows_pope": 9000,
+  "distinct_pairs_pope": 5127,
+  "sec_per_generation": {
+    "qwen_pope": 1.573362844122103,
+    "modelB_pope": 6.748462414827593,
+    "modelC_pope": 0.9673806277620339,
+    "external_baselines_qwen_per_pair": 10.438910342064446
+  },
+  "gpu_peak_memory_GB": {
+    "qwen_external_baselines": 8.013731328,
+    "qwen_hallusionbench": 7.784158208,
+    "modelB_pope": 6.27542272,
+    "modelC_pope": 6.505970688
+  }
+}
